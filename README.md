@@ -1,9 +1,36 @@
-# React TypeScript Starter Pack
+# TODO App
 
-To use this template click `Use this template`
+This project is a simple To-Do List application built with React and Vite. It allows users to add, edit, delete, and mark tasks as complete.
 
-### Available Scripts
+## Live Preview
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[DEMO](https://yura-soroka.github.io/TODO-App/)
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
+## Technologies Used
+
+- React Lib
+- Vite Build Tool
+- TypeScript
+- React Router
+- SCSS
+
+## Getting Started
+
+To get the project up and running on your local machine, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/yura-soroka/TODO-App.git](https://github.com/yura-soroka/TODO-App.git)
+    cd TODO-App
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the project locally:**
+    ```bash
+    npm run dev
+    ```
